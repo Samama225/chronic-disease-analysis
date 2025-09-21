@@ -46,4 +46,14 @@ The goal is to extract insights for **public health policy** and provide **indiv
 ---
 
 ## 📂 Repository Structure
+├── U.S_Chronic_Disease.ipynb # Main analysis notebook
+├── requirements.txt # Dependencies
+├── outputs/ # Saved plots, model artifacts
+│ ├── choropleth_copd.png
+│ ├── choropleth_obesity.png
+│ ├── trend_copd_obesity.png
+│ └── feature_importances.png
+└── README.md
+
+
 
