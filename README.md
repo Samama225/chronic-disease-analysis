@@ -45,15 +45,20 @@ The goal is to extract insights for **public health policy** and provide **indiv
 
 ---
 
-## 📂 Repository Structure
-├── U.S_Chronic_Disease.ipynb # Main analysis notebook
-├── requirements.txt # Dependencies
-├── outputs/ # Saved plots, model artifacts
-│ ├── choropleth_copd.png
-│ ├── choropleth_obesity.png
-│ ├── trend_copd_obesity.png
-│ └── feature_importances.png
-└── README.md
+📈 Key Insights
+
+Obesity prevalence is rising faster than COPD in many regions.
+
+Geographic hotspots show clear disparities (some states consistently higher).
+
+Models highlight lifestyle and demographic factors as major drivers.
+
+
+🧑‍⚕️ Impact
+
+This project goes beyond modeling by tying data insights back to public health action.
+It shows how data science + healthcare can work together to shape better prevention strategies.
+
 
 
 
